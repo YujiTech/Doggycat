@@ -9,11 +9,7 @@ Doggycat is a fully responsive petshop ecommerce website, <br />Responsive for a
 </div>
 
 <br />
-
-### Demo Screeshots
-
-![Kitter Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
+ 
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -27,18 +23,18 @@ To run **Kitter** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/kitter.git
+sudo git clone https://github.com/YujiTech/Doggycat.git 
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/kitter.git
+git clone https://github.com/YujiTech/Doggycat.git 
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Tiktok](https://www.tiktok.com/@johnmartinez07).
 
 ### License
 
